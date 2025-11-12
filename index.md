@@ -11,15 +11,15 @@
 
 Business Intelligence and Finance Student | Ohio University  
 
-I’m passionate about transforming data into insight. My interests lie at the intersection of **business intelligence, finance, and analytics**, where I can connect technical data modeling with strategic business impact.  
-Through experience in IT infrastructure, technology risk consulting, and data visualization, I’ve developed a strong foundation for roles in **data analytics, BI consulting, and financial systems analysis**.  
+I’m driven by the challenge of turning complex data into clear, actionable insights. My focus lies at the intersection of **business intelligence, financial analytics, and technology consulting**, where I can connect technical problem-solving with strategic decision-making.  
+I take pride in my work ethic, adaptability, and curiosity — traits that push me to continually grow in data analytics, reporting automation, and information systems.  
 
 ---
 
 ## Resume
 
-<p align="center">
-  <img src=" Real Resume SS.png" alt="Ben Gast Resume" width="90%">
+<p align="center" style="background-color:#1e1e1e; padding:15px; border-radius:10px;">
+  <img src="Real Resume SS.png" alt="Benjamin Gast Resume" width="90%">
 </p>
 
 
