@@ -14,3 +14,12 @@ Let’s connect!
 ---
 
 Thanks for visiting my portfolio!
+
+<link rel="stylesheet" href="assets/css/style.css">
+<div class="navbar">
+  <a href="https://benjamingast777.github.io">🏠 Home</a> |
+  <a href="https://benjamingast777.github.io/projects">📊 Projects</a> |
+  <a href="https://benjamingast777.github.io/about">👤 About</a> |
+  <a href="https://benjamingast777.github.io/contact">📫 Contact</a> |
+  <a href="https://benjamingast777.github.io/resume">📄 Resume</a>
+</div>
