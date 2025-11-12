@@ -8,13 +8,13 @@ If you’d like to connect about **Business Intelligence, Data Analytics, Financ
 ## Let's Connect
 
 **Email:** [b.gast1@outlook.com](mailto:b.gast1@outlook.com)  
- b.gast1@outlook.com  
+  
 
 **LinkedIn:** [linkedin.com/in/ben-gast23](https://www.linkedin.com/in/ben-gast23)  
- https://www.linkedin.com/in/ben-gast23  
+ 
 
 **GitHub:** [github.com/benjamingast777](https://github.com/benjamingast777)  
- https://github.com/benjamingast777  
+  
 
 ---
 
