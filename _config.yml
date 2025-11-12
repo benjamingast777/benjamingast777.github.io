@@ -1,9 +1,7 @@
 theme: jekyll-theme-minimal
-title: ""
-description: ""
+title: "Benjamin Gast Portfolio"
+description: "Business Intelligence | Finance | Cloud Analytics"
 show_downloads: false
-show_header: false
 darkmode: true
-
 sass:
   style: compressed
