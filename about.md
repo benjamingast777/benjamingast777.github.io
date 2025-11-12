@@ -25,3 +25,12 @@ Power BI | SQL | Excel | Python | Datto | Veeam | ConnectWise | Azure | Risk Ana
 ### 🎓 Education
 - **Ohio University** – BBA in Finance & MIS  
   Honors Program | Copeland Scholars | Derivatives Management Group
+
+<link rel="stylesheet" href="assets/css/style.css">
+<div class="navbar">
+  <a href="https://benjamingast777.github.io">🏠 Home</a> |
+  <a href="https://benjamingast777.github.io/projects">📊 Projects</a> |
+  <a href="https://benjamingast777.github.io/about">👤 About</a> |
+  <a href="https://benjamingast777.github.io/contact">📫 Contact</a> |
+  <a href="https://benjamingast777.github.io/resume">📄 Resume</a>
+</div>
